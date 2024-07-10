@@ -12,12 +12,16 @@ First, clone the repository to your local machine:
 git clone <repository-url>
 ```
 
-Second, Navigate to the Repository Directory
+### Step 2: Navigate to the Repository Directory
+Change into the directory of the cloned repository:
 
 ```bash
 cd <repository-name>
+```
 
-Third, Run the Script
+### Step 3: Run the Script
+To use this script, provide a directory to search and a string to search for:
 
 ```bash
 sh <script-name>
+```
