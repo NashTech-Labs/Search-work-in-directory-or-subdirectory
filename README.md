@@ -10,6 +10,7 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone <repository-url>
+```
 
 Second, Navigate to the Repository Directory
 
