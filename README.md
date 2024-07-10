@@ -19,3 +19,4 @@ cd <repository-name>
 Third, Run the Script
 
 ```bash
+sh <script-name>
